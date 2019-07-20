@@ -1,0 +1,37 @@
+.icon {
+    display: inline-block;
+    background: url("../img/sprite.png") no-repeat;
+    width: 610px;
+    height: 386px;
+    background-size:610px 386px;
+}
+.i-btm {
+    width: 423px;
+    height: 42px;
+    background-position:-187px 0px;
+}
+.i-center {
+    width: 423px;
+    height: 42px;
+    background-position:-187px -52px;
+}
+.i-close {
+    width: 56px;
+    height: 56px;
+    background-position:-187px -222px;
+}
+.i-scroll {
+    width: 177px;
+    height: 386px;
+    background-position:0px 0px;
+}
+.i-top-left {
+    width: 250px;
+    height: 49px;
+    background-position:-187px -104px;
+}
+.i-top-right {
+    width: 166px;
+    height: 49px;
+    background-position:-187px -163px;
+}
